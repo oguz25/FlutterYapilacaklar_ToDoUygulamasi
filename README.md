@@ -1,0 +1,2 @@
+# FlutterYapilacaklar_ToDoUygulamasi
+Flutter ile yapılacaklar uygulaması
